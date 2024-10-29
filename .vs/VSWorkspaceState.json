@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\API"
+    "\\API\\DTOs",
+    "\\API\\Entities",
+    "\\API\\Interfaces",
+    "\\API\\Properties",
+    "\\API\\Services",
+    "\\client\\public",
+    "\\client\\src"
   ],
-  "SelectedNode": "\\API\\Program.cs",
+  "SelectedNode": "\\API",
   "PreviewInSolutionExplorer": false
 }
